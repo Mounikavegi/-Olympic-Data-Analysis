@@ -65,4 +65,4 @@ The data processing stage involves cleaning and transforming raw Olympic data in
 The Olympic Data Analysis on Azure project demonstrates how to leverage Azure services for processing, analyzing, and visualizing large-scale data. By following the setup and guides provided in this repository, you can adapt the project to other domains and expand its functionalities. Happy analyzing!
 
 ## Author
-[@tknishh](https://github.com/tknishh)
+https://github.com/Mounikavegi
